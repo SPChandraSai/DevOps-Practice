@@ -4,7 +4,7 @@ import Counter from './Components/Counter';
 function App() {
   return (
     <>
-      <h1>DevOps Example</h1>
+      <h1>Accordian Example</h1>
       {/* <Counter /> */}
     </>
   );
