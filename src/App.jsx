@@ -1,11 +1,11 @@
-import "./App.css";
-import Counter from "./Components/Counter";
+import './App.css';
+import Counter from './Components/Counter';
 
 function App() {
   return (
     <>
-      <h1>Accordian Example</h1>
-      {/* <Counter /> */}
+      <h1>Counter Example</h1>
+      <Counter />
     </>
   );
 }
