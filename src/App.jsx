@@ -4,8 +4,8 @@ import Counter from './Components/Counter';
 function App() {
   return (
     <>
-      <h1>DevOps Example</h1>
-      {/* <Counter /> */}
+      <h1>Counter Example</h1>
+      <Counter />
     </>
   );
 }
